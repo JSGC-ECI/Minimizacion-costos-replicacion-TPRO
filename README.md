@@ -9,6 +9,7 @@ Implementacion de un algoritmo de **programación dinámica** para determinar la
 ## 👥 Autores
 
 * [JUAN SEBASTIÁN GUAYAZÁN CLAVIJO](https://github.com/JSGC-ECI) → [juan.guayazan-c@mail.escuelaing.edu.co](mailto:juan.guayazan-c@mail.escuelaing.edu.co)
+
 Teoría de la Programación (ISIS TPRO-1)   
 Decanatura Ingeniería de Sistemas → Centro de Estudios de Ingeniería de Software  
 Ingeniería de Sistemas e Ingeniería Estadística  
